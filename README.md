@@ -17,4 +17,4 @@ ARM templates are JSON files that define the infrastructure and configuration fo
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone git clone https://github.com/SrdrOlmez/Azure-Resource-Manager-ARM-.git
+   git clone git clone https://github.com/SrdrOlmez/Azure-Resource-Manager-ARM.git
